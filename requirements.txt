@@ -1,0 +1,7 @@
+pygame
+pillow
+torch
+torchvision
+gymnasium
+stable-baselines3[extra]
+protobuf==3.20.*
